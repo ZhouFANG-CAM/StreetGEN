@@ -19,9 +19,9 @@
 
 ### Results: 
 
-![result1](https://github.com/simpleshinobu/StreetGEN/blob/main/Result%20Part%201.jpg)
+![result1](https://github.com/ZhouFANG-CAM/StreetGEN/blob/main/Result%20Part%201.jpg)
 
-![result2](https://github.com/simpleshinobu/StreetGEN/blob/main/Result%20Part%202.jpg)
+![result2](https://github.com/ZhouFANG-CAM/StreetGEN/blob/main/Result%20Part%202.jpg)
 
 ### Demo: 
 
