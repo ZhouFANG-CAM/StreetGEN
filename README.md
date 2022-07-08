@@ -19,9 +19,9 @@
 
 ### Results: 
 
-![result1](./Result Part 1.jpg)
+![result1](https://github.com/simpleshinobu/StreetGEN/Result Part 1.jpg)
 
-![result2](./Result Part 2.jpg)
+![result2](https://github.com/simpleshinobu/StreetGEN/Result Part 2.jpg)
 
 ### Demo: 
 
