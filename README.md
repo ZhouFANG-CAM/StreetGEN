@@ -25,13 +25,14 @@
 
 ### Demo: 
 
-![demo1](https://github.com/ZhouFANG-CAM/StreetGEN/blob/main/Demo1.mp4)
+https://user-images.githubusercontent.com/63544676/178254456-d6517cac-1daa-4f67-a57a-2125516dcf5a.mp4
 
-![demo2](https://github.com/ZhouFANG-CAM/StreetGEN/blob/main/Demo2.mp4)
+https://user-images.githubusercontent.com/63544676/178254479-b06a5f7b-c643-498e-9fdf-efb8e593fe70.mp4
 
-![demo3](https://github.com/ZhouFANG-CAM/StreetGEN/blob/main/Demo3.mp4)
+https://user-images.githubusercontent.com/63544676/178254500-f05f4d5f-6241-4dc9-bc22-94fc50a19cdf.mp4
 
-![demo4](https://github.com/ZhouFANG-CAM/StreetGEN/blob/main/Demo4.mp4)
+https://user-images.githubusercontent.com/63544676/178254525-77403a35-2e17-44a6-be36-77e34664e86c.mp4
+
 
 ### Notes on contributors:
 
