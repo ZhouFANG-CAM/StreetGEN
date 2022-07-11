@@ -26,6 +26,7 @@
 ### Demo: 
 
 Coming soon!
+![demo1](https://github.com/ZhouFANG-CAM/StreetGEN/blob/main/Demo1.mp4)
 
 ### Notes on contributors:
 
